@@ -1,0 +1,45 @@
+.container {
+	height: 600px;
+	width: 960px;
+	margin: auto;
+	background-color: #cccccc;
+}
+
+.content {
+	height: 600px;
+	width: 320px;
+	margin: auto;
+	background-color: white;
+	text-align: center;
+}
+
+/*content*/
+
+.beerpic {
+	padding-top: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 134px;
+	height: 200px;
+}
+
+#text {
+	color: #1a75ff;
+}
+
+#ndbtn {
+	margin-top: 15px;
+	border: 2px black solid;
+	height: 50px;
+	width: 213px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background-color: white;
+	cursor: pointer;
+}
+
+#ndbtn h1 {
+	margin-top: 7px;
+	color: #00001a;
+}
